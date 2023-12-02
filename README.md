@@ -1,1 +1,1 @@
-# portfolio https://salamandersenp.github.io/portfolio/
+# https://salamandersenp.github.io/portfolio/
