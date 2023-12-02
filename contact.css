@@ -17,7 +17,7 @@ a:visited {
 }
 
 body {
-  font-family: "Fira Code", monospace;
+  font-family: "Fira Code", monospace !important;
   background-color: rgb(25, 26, 30);
   color: white;
 }
