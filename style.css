@@ -249,6 +249,7 @@ svg {
 }
 @media (max-width: 480px) {
   .main-wrapper {
+    height: 100dvh;
     flex-direction: column;
     justify-content: space-evenly;
   }
